@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UBILsX5d+zDv1l7wa/jO78VoyVZ2HlJjBh+MeD0Y+B6t7+w8VMWnaYeU2U5u++TiO/U0PNP3LzhxZ0pVvcF72g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oscar.lucas\\source\\repos\\AlgorithmsCourse\\Algorithms\\Algorithms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oscar.lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
