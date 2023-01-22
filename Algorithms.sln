@@ -9,6 +9,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Recursive", "Recursive", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FactorialMethod", "FactorialMethod", "{62B030D2-CB99-487D-9394-7E3CB2E4F0D4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FibonacciProblem", "FibonacciProblem", "{8A0DC153-0DB0-4A96-8D37-74BAC824404F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{FFBCD958-72E1-48FA-9742-01EFC460BC58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +23,10 @@ Global
 		{8D64F4FD-EDAA-4654-8D8D-A9AC6B7FADEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D64F4FD-EDAA-4654-8D8D-A9AC6B7FADEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D64F4FD-EDAA-4654-8D8D-A9AC6B7FADEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFBCD958-72E1-48FA-9742-01EFC460BC58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFBCD958-72E1-48FA-9742-01EFC460BC58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFBCD958-72E1-48FA-9742-01EFC460BC58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFBCD958-72E1-48FA-9742-01EFC460BC58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -26,6 +34,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{8D64F4FD-EDAA-4654-8D8D-A9AC6B7FADEE} = {62B030D2-CB99-487D-9394-7E3CB2E4F0D4}
 		{62B030D2-CB99-487D-9394-7E3CB2E4F0D4} = {D73F7600-98B0-4D65-8878-A2E6532FE42D}
+		{8A0DC153-0DB0-4A96-8D37-74BAC824404F} = {D73F7600-98B0-4D65-8878-A2E6532FE42D}
+		{FFBCD958-72E1-48FA-9742-01EFC460BC58} = {8A0DC153-0DB0-4A96-8D37-74BAC824404F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C934FC01-8493-4B8B-9FD6-0C9FF9382924}
