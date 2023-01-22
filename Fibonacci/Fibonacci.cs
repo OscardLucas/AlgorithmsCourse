@@ -9,7 +9,9 @@ namespace Fibonacci
 
         //Fibonacci
         //0 1 1 2 3 5 8 13 21 34 ...
+        
 
+        //O(N)
         public static int GetIterative(int index)
         {
             int prev1 = 0;
@@ -36,6 +38,8 @@ namespace Fibonacci
             return prev1 + prev2;
         }
 
+
+        //O(2^N)
         public static int GetRecursive(int index)
         {
             if (index < 2)
