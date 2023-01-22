@@ -9,6 +9,10 @@ namespace Fibonacci
         
         //Recursion = Dry and readable Cons: Large Stack
 
+        //Every time you are using a tree or converting something to a tree, consider recursion
+        //Divide and conquer using recursion
+
+
         static void Main(string[] args)
         {
             int indexFibonacci = 40;
