@@ -1,0 +1,4 @@
+C:\Users\oskr_\source\repos\AlgorithmsCourse\Algorithms\obj\Debug\netcoreapp3.1\Recursive.csprojAssemblyReference.cache
+C:\Users\oskr_\source\repos\AlgorithmsCourse\Algorithms\obj\Debug\netcoreapp3.1\Recursive.csproj.CoreCompileInputs.cache
+C:\Users\oskr_\source\repos\AlgorithmsCourse\Algorithms\obj\Debug\netcoreapp3.1\Recursive.AssemblyInfoInputs.cache
+C:\Users\oskr_\source\repos\AlgorithmsCourse\Algorithms\obj\Debug\netcoreapp3.1\Recursive.AssemblyInfo.cs
