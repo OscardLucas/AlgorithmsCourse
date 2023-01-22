@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oskr_\\source\\repos\\AlgorithmsCourse\\Algorithms\\Recursive.csproj",
-      "projectName": "Recursive",
-      "projectPath": "C:\\Users\\oskr_\\source\\repos\\AlgorithmsCourse\\Algorithms\\Recursive.csproj",
+      "projectUniqueName": "C:\\Users\\oskr_\\source\\repos\\AlgorithmsCourse\\Algorithms\\Factorial.csproj",
+      "projectName": "Factorial",
+      "projectPath": "C:\\Users\\oskr_\\source\\repos\\AlgorithmsCourse\\Algorithms\\Factorial.csproj",
       "packagesPath": "C:\\Users\\oskr_\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\oskr_\\source\\repos\\AlgorithmsCourse\\Algorithms\\obj\\",
       "projectStyle": "PackageReference",
