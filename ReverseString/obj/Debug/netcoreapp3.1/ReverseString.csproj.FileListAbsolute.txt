@@ -11,3 +11,17 @@ C:\Users\oskr_\source\repos\AlgorithmsCourse\ReverseString\obj\Debug\netcoreapp3
 C:\Users\oskr_\source\repos\AlgorithmsCourse\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.dll
 C:\Users\oskr_\source\repos\AlgorithmsCourse\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.pdb
 C:\Users\oskr_\source\repos\AlgorithmsCourse\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.genruntimeconfig.cache
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.exe
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.deps.json
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.runtimeconfig.json
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.runtimeconfig.dev.json
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.dll
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.pdb
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.csproj.AssemblyReference.cache
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.AssemblyInfoInputs.cache
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.AssemblyInfo.cs
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.dll
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.pdb
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.genruntimeconfig.cache
