@@ -1,0 +1,13 @@
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\SelectionSorting\bin\Debug\netcoreapp3.1\SelectionSorting.exe
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\SelectionSorting\bin\Debug\netcoreapp3.1\SelectionSorting.deps.json
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\SelectionSorting\bin\Debug\netcoreapp3.1\SelectionSorting.runtimeconfig.json
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\SelectionSorting\bin\Debug\netcoreapp3.1\SelectionSorting.runtimeconfig.dev.json
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\SelectionSorting\bin\Debug\netcoreapp3.1\SelectionSorting.dll
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\SelectionSorting\bin\Debug\netcoreapp3.1\SelectionSorting.pdb
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\SelectionSorting\obj\Debug\netcoreapp3.1\SelectionSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\SelectionSorting\obj\Debug\netcoreapp3.1\SelectionSorting.AssemblyInfoInputs.cache
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\SelectionSorting\obj\Debug\netcoreapp3.1\SelectionSorting.AssemblyInfo.cs
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\SelectionSorting\obj\Debug\netcoreapp3.1\SelectionSorting.csproj.CoreCompileInputs.cache
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\SelectionSorting\obj\Debug\netcoreapp3.1\SelectionSorting.dll
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\SelectionSorting\obj\Debug\netcoreapp3.1\SelectionSorting.pdb
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\SelectionSorting\obj\Debug\netcoreapp3.1\SelectionSorting.genruntimeconfig.cache

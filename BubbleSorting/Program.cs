@@ -5,9 +5,11 @@ using System.Linq;
 namespace BubbleSorting
 {
     class Program
+
     //One of the simpliest but one of the least efficient
     //Space copmplexity O(1)
     //Time complexity O(N^2)
+    //Works itrating over a list an evaluates current index vs next index, and swapping if unordered
     {
         static void Main(string[] args)
         {
