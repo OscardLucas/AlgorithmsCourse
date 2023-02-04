@@ -1,0 +1,14 @@
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\MergeSorting\bin\Debug\netcoreapp3.1\MergeSorting.exe
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\MergeSorting\bin\Debug\netcoreapp3.1\MergeSorting.deps.json
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\MergeSorting\bin\Debug\netcoreapp3.1\MergeSorting.runtimeconfig.json
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\MergeSorting\bin\Debug\netcoreapp3.1\MergeSorting.runtimeconfig.dev.json
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\MergeSorting\bin\Debug\netcoreapp3.1\MergeSorting.dll
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\MergeSorting\bin\Debug\netcoreapp3.1\MergeSorting.pdb
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\MergeSorting\obj\Debug\netcoreapp3.1\MergeSorting.csproj.AssemblyReference.cache
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\MergeSorting\obj\Debug\netcoreapp3.1\MergeSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\MergeSorting\obj\Debug\netcoreapp3.1\MergeSorting.AssemblyInfoInputs.cache
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\MergeSorting\obj\Debug\netcoreapp3.1\MergeSorting.AssemblyInfo.cs
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\MergeSorting\obj\Debug\netcoreapp3.1\MergeSorting.csproj.CoreCompileInputs.cache
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\MergeSorting\obj\Debug\netcoreapp3.1\MergeSorting.dll
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\MergeSorting\obj\Debug\netcoreapp3.1\MergeSorting.pdb
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\MergeSorting\obj\Debug\netcoreapp3.1\MergeSorting.genruntimeconfig.cache
