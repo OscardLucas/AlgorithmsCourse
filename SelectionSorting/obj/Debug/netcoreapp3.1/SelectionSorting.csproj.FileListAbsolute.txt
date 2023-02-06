@@ -11,3 +11,4 @@ C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\SelectionSorting\obj\Debug\ne
 C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\SelectionSorting\obj\Debug\netcoreapp3.1\SelectionSorting.dll
 C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\SelectionSorting\obj\Debug\netcoreapp3.1\SelectionSorting.pdb
 C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\SelectionSorting\obj\Debug\netcoreapp3.1\SelectionSorting.genruntimeconfig.cache
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\SelectionSorting\obj\Debug\netcoreapp3.1\SelectionSorting.csproj.AssemblyReference.cache

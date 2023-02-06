@@ -1,0 +1,14 @@
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\QuickSorting\obj\Debug\netcoreapp3.1\QuickSorting.csproj.AssemblyReference.cache
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\QuickSorting\obj\Debug\netcoreapp3.1\QuickSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\QuickSorting\obj\Debug\netcoreapp3.1\QuickSorting.AssemblyInfoInputs.cache
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\QuickSorting\obj\Debug\netcoreapp3.1\QuickSorting.AssemblyInfo.cs
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\QuickSorting\obj\Debug\netcoreapp3.1\QuickSorting.csproj.CoreCompileInputs.cache
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\QuickSorting\bin\Debug\netcoreapp3.1\QuickSorting.exe
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\QuickSorting\bin\Debug\netcoreapp3.1\QuickSorting.deps.json
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\QuickSorting\bin\Debug\netcoreapp3.1\QuickSorting.runtimeconfig.json
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\QuickSorting\bin\Debug\netcoreapp3.1\QuickSorting.runtimeconfig.dev.json
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\QuickSorting\bin\Debug\netcoreapp3.1\QuickSorting.dll
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\QuickSorting\bin\Debug\netcoreapp3.1\QuickSorting.pdb
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\QuickSorting\obj\Debug\netcoreapp3.1\QuickSorting.dll
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\QuickSorting\obj\Debug\netcoreapp3.1\QuickSorting.pdb
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\QuickSorting\obj\Debug\netcoreapp3.1\QuickSorting.genruntimeconfig.cache
