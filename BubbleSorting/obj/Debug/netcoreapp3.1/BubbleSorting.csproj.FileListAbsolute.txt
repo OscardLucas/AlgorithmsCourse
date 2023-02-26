@@ -1,0 +1,14 @@
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\BubbleSorting\bin\Debug\netcoreapp3.1\BubbleSorting.exe
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\BubbleSorting\bin\Debug\netcoreapp3.1\BubbleSorting.deps.json
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\BubbleSorting\bin\Debug\netcoreapp3.1\BubbleSorting.runtimeconfig.json
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\BubbleSorting\bin\Debug\netcoreapp3.1\BubbleSorting.runtimeconfig.dev.json
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\BubbleSorting\bin\Debug\netcoreapp3.1\BubbleSorting.dll
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\BubbleSorting\bin\Debug\netcoreapp3.1\BubbleSorting.pdb
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\BubbleSorting\obj\Debug\netcoreapp3.1\BubbleSorting.csproj.AssemblyReference.cache
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\BubbleSorting\obj\Debug\netcoreapp3.1\BubbleSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\BubbleSorting\obj\Debug\netcoreapp3.1\BubbleSorting.AssemblyInfoInputs.cache
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\BubbleSorting\obj\Debug\netcoreapp3.1\BubbleSorting.AssemblyInfo.cs
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\BubbleSorting\obj\Debug\netcoreapp3.1\BubbleSorting.csproj.CoreCompileInputs.cache
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\BubbleSorting\obj\Debug\netcoreapp3.1\BubbleSorting.dll
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\BubbleSorting\obj\Debug\netcoreapp3.1\BubbleSorting.pdb
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\BubbleSorting\obj\Debug\netcoreapp3.1\BubbleSorting.genruntimeconfig.cache

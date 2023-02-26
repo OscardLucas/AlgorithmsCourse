@@ -1,0 +1,14 @@
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\InsertionSorting\bin\Debug\netcoreapp3.1\InsertionSorting.exe
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\InsertionSorting\bin\Debug\netcoreapp3.1\InsertionSorting.deps.json
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\InsertionSorting\bin\Debug\netcoreapp3.1\InsertionSorting.runtimeconfig.json
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\InsertionSorting\bin\Debug\netcoreapp3.1\InsertionSorting.runtimeconfig.dev.json
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\InsertionSorting\bin\Debug\netcoreapp3.1\InsertionSorting.dll
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\InsertionSorting\bin\Debug\netcoreapp3.1\InsertionSorting.pdb
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\InsertionSorting\obj\Debug\netcoreapp3.1\InsertionSorting.csproj.AssemblyReference.cache
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\InsertionSorting\obj\Debug\netcoreapp3.1\InsertionSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\InsertionSorting\obj\Debug\netcoreapp3.1\InsertionSorting.AssemblyInfoInputs.cache
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\InsertionSorting\obj\Debug\netcoreapp3.1\InsertionSorting.AssemblyInfo.cs
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\InsertionSorting\obj\Debug\netcoreapp3.1\InsertionSorting.csproj.CoreCompileInputs.cache
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\InsertionSorting\obj\Debug\netcoreapp3.1\InsertionSorting.dll
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\InsertionSorting\obj\Debug\netcoreapp3.1\InsertionSorting.pdb
+C:\Users\oscar.lucas\source\repos\AlgorithmsCourse\InsertionSorting\obj\Debug\netcoreapp3.1\InsertionSorting.genruntimeconfig.cache
