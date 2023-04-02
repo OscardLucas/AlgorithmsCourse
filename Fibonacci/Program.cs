@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 
 namespace Fibonacci
 {
@@ -15,15 +16,20 @@ namespace Fibonacci
 
         static void Main(string[] args)
         {
-            int indexFibonacci = 40;
+            int indexFibonacci = 45;
+            int result = 0;
 
-            int result = Fibonacci.GetRecursive(indexFibonacci);
 
+            result = FibonacciDynamic.GetResult(indexFibonacci, new System.Collections.Generic.Dictionary<int, int>());
+            Console.WriteLine($"Dynamic programming result : {result}");
+
+            result = Fibonacci.GetRecursive(indexFibonacci);
             Console.WriteLine($"Recursive result : {result}");
 
             result = Fibonacci.GetIterative(indexFibonacci);
-
             Console.WriteLine($"Iterative result : {result}");
+
+
 
         }
     }
