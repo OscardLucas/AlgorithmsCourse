@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oscar.lucas\\source\\repos\\AlgorithmsCourse\\ReverseString\\ReverseString.csproj": {}
+    "C:\\Users\\oskr_\\source\\repos\\AlgorithmsCourse\\ReverseString\\ReverseString.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oscar.lucas\\source\\repos\\AlgorithmsCourse\\ReverseString\\ReverseString.csproj": {
+    "C:\\Users\\oskr_\\source\\repos\\AlgorithmsCourse\\ReverseString\\ReverseString.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oscar.lucas\\source\\repos\\AlgorithmsCourse\\ReverseString\\ReverseString.csproj",
+        "projectUniqueName": "C:\\Users\\oskr_\\source\\repos\\AlgorithmsCourse\\ReverseString\\ReverseString.csproj",
         "projectName": "ReverseString",
-        "projectPath": "C:\\Users\\oscar.lucas\\source\\repos\\AlgorithmsCourse\\ReverseString\\ReverseString.csproj",
-        "packagesPath": "C:\\Users\\oscar.lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oscar.lucas\\source\\repos\\AlgorithmsCourse\\ReverseString\\obj\\",
+        "projectPath": "C:\\Users\\oskr_\\source\\repos\\AlgorithmsCourse\\ReverseString\\ReverseString.csproj",
+        "packagesPath": "C:\\Users\\oskr_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oskr_\\source\\repos\\AlgorithmsCourse\\ReverseString\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\oscar.lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\oskr_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,12 +26,10 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://gitlab.com/api/v4/projects/19453718/packages/nuget/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -42,7 +41,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -58,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
